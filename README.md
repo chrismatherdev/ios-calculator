@@ -2,4 +2,4 @@
 
 ## Snapshot
 
-![Screenshot](docs/calculator.png)
+![Screenshot](docs/ios-calculator-screenshot.png)
